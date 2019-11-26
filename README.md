@@ -1,2 +1,2 @@
-# Ptyhon-Started
+# Python-Started
 Conceptos básicos de Python
